@@ -1,0 +1,34 @@
+{
+  "name": "vue-svg-component",
+  "private": false,
+  "license": "MIT",
+  "version": "1.2.2",
+  "description": "Transform svg to vue component, Suitable for vite and webpack.",
+  "keywords": [
+    "webpack",
+    "vite",
+    "vue",
+    "svg",
+    "icon",
+    "component"
+  ],
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "author": {
+    "name": "gonghongchen",
+    "email": "ghcmail@qq.com",
+    "url": "https://github.com/gonghongchen"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.3.4",
+    "svgo": "^3.0.2"
+  }
+}
